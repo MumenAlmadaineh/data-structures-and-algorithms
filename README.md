@@ -2,8 +2,10 @@
 
 ### loop in reverse order into array
 
-[Code Challenge: Class 01](https://github.com/MumenAlmadaineh/data-structures-and-algorithms/pull/2)
-[Code Challenge: Class 02](https://github.com/MumenAlmadaineh/data-structures-and-algorithms/pull/4)
-[Code Challenge: Class 03](https://github.com/MumenAlmadaineh/data-structures-and-algorithms/pull/5)
-[Code Challenge: Class 05](https://github.com/MumenAlmadaineh/data-structures-and-algorithms/pull/7)
+ Read:05 | [Putting it all together](https://mumenalmadaineh.github.io/reading-notes/read5:301)
+
+Code Challenge: | [Class 01](https://github.com/MumenAlmadaineh/data-structures-and-algorithms/pull/2)
+Code Challenge: | [Class 02](https://github.com/MumenAlmadaineh/data-structures-and-algorithms/pull/4)
+Code Challenge: | [Class 03](https://github.com/MumenAlmadaineh/data-structures-and-algorithms/pull/5)
+Code Challenge: | [Class 05](https://github.com/MumenAlmadaineh/data-structures-and-algorithms/pull/7)
 
